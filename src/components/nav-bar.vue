@@ -21,6 +21,10 @@ export default {
           name: 'logout',
           title: 'Log out',
         },
+        {
+          name: 'Messages',
+          title: 'Messages',
+        },
       ],
       loggedOutNavRoutes: [
         {
